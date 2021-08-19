@@ -1,1 +1,1 @@
-ptdsd
+print("hello")
